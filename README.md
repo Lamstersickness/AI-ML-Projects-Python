@@ -1,4 +1,3 @@
-# Demo
-This is my first Git Repository
+# AI/ML Projects (Python)
 <br>
 Author - Archit Kumar
