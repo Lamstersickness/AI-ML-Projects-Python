@@ -1,3 +1,6 @@
-# AI/ML Projects (Python)
+# AI/ML Projects
 <br>
-Author - Archit Kumar
+This repository consists of trained ML models on some of the 
+major datasets based on real life applications.
+<br><br>
+<b>Author</b> - Archit Kumar
